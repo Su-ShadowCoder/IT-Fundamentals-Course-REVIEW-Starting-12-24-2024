@@ -20,3 +20,8 @@
 
 #smol git test.
 # second smal test
+
+# PEP 8 Conventions
+# indentation's needs to be Consistent
+# Limit the code lines to a maximum of 79 characters.
+# You can limit the character's by changing the settings in your coding editor.
