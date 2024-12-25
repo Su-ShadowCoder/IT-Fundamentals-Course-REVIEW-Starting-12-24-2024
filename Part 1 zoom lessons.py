@@ -58,4 +58,56 @@
 
 #  Paused at 01:46 min, python 2 zoom lesson video. 
 
+# Basic Data Types
+# String 
+# Integer
+# Float
+# Boolean
+
+# email_adres = "alfred@clarusway.com"
+# id_numb = "632"
+# secret_course_paswrd = "It's early"
+
+# print(f"The e-mail adres is: {email_adres}, with the id number of {id_numb}, and the secret password is:{secret_course_paswrd}.")
+
+# str_number = "1923"
+# str_sign = "&(*^#$"
+
+# print(str_number)
+# print(str_sign)
+# print(type(str_number), type(str_sign))
+
+# integer are whole numbers, it could be negative.
+# floats has numbers with decimals, usualy its better to store a vulue in whole numbers if there is no decimal.
+# 
+# Boolean False or True
+
+# prime = 7
+# primes =  [3, 7, 11, 13, 23, 101]
+# is_prime = prime in primes
+
+# print(is_prime)
+
+# so in this situations it is true that there is prime in primes list, essentialy its asking when you are asking to print, to print if its true that 7 is in the list of primes. and as you can see in the terminal is say true because there is a 7 in the list. and true is thus the boolean value.
+
+# Type conversion
+# converting data types.
+
+# you can use these following to convert Datatypes:
+# - str() converts to string type.
+# - int() converts to integer type.
+# - float() converts to floating type.
+
+# able to convert string number into int or float.
+
+# The value of any type in python can be converted to a string. except for exceptions.
+
+# when a float var is converted to a int var ALL the deciamals will be erased of which means anynumber behind the whole number gets erased. 2.36341234534 would become 2, 5.9998877 would become 5.
+
+# and when a int becomes a float it will add one zero of decimal if there is no existing decimal. 5 would become 5.0 and 42 would become 42.0
+
+# you cant add a int and a string togheter or you would get a error, even if the string consist only of whole numbers. so first convert the string to int, before you do a mathmatical handeling with a integer(int)
+
+#Danzo. for today
+
 
