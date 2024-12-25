@@ -25,3 +25,25 @@
 # indentation's needs to be Consistent
 # Limit the code lines to a maximum of 79 characters.
 # You can limit the character's by changing the settings in your coding editor.
+
+#Giving function's a different name: 
+# different_name  = print
+# different_name(f"Hellow world!")
+
+# Variables
+
+# name_var = "Max"
+# age_var = 23
+# weight_in_kg = 75.5
+
+# print(f"Hello!, My name is {name_var}, I'm {age_var} years old.\nand I weight {weight_in_kg} Kg.")
+
+# Do not use specifiek keywords that act as functions in your variable name. according to the pep8 conventions.
+
+# If u decide to make a var name, try to use 3 word names with underscore connecting it. as spaces would the editor consider it as every word is it's own independent var. so like this name_var or avg_data_age.
+
+# Naming variable's exercise
+# rotten_fruits_numb = # amount of rotten fruits.
+# prime_numb_lst = # the list of prime numbers.
+# math_exam_scores = # the list of mathematix exam scores.
+
