@@ -47,3 +47,15 @@
 # prime_numb_lst = # the list of prime numbers.
 # math_exam_scores = # the list of mathematix exam scores.
 
+# Exercise
+# January = March = May = July = August = October = December = 31
+# April = June = September = November = 30
+# February = 28
+
+# print(January, February, March, April, May, June, July, August, September, October, November, December)
+
+# When there is no value asigned to a variable or you dont know for now, you could asign it to be temporarly or permananently "None" value without the quotations marks. depending on the situation.
+
+#  Paused at 01:46 min, python 2 zoom lesson video. 
+
+
