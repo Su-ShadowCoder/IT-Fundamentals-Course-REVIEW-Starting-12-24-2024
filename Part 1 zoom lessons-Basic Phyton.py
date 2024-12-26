@@ -110,4 +110,42 @@
 
 #Danzo. for today
 
+# Arithmetic Operations
+# example: 
+# 100 + 45 = 145
+# 500 - 65 = 435
+# 25 * 4 = 100
+# 10 / 2 = 5.0
+# 11 // 2 = 5           division where decialmeista
+# 5 ** 3 = 125          exponent
+# 10 % 3 = 1           remainder
+# 16 ** 0.5 =  4    you wouol do scare root base number evertime you do exponent of 0,5 , wortel.
 
+
+# This is shorter version people prefer to use in Phython.
+# x += 3    =    x = x + 3
+# x *= 3    =    x = x * 3
+# x **= 3   =    x = x ** 3
+
+
+# x = 6
+# x *= 2 
+# print(f"{x}")
+
+# print("we are", "\boosting", "our", "\brotherhood")
+
+
+# Boolean Logic
+
+# and   =  Return True if all expressions are evaluated True, it otherwise returns False
+
+# or    =  returns True if any expressions evaluates to True. otherwise , it returns False
+
+# not   =  it evaluates the expression that follows it as the opposite of the truth. eg. not True means False
+
+# order of priority python takes:
+#- not
+#- and
+#- or
+
+  
