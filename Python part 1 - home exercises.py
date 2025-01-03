@@ -14,4 +14,8 @@
 #       "Twinkle, twinkle, little star,\n"
 #       "        How I wonder what you are.")\
 
+# ChatGpt advise:
+# If your text is static or rarely changes, triple quotes (""") are better for readability and ease of use. If you’re constructing strings dynamically, especially in a loop or with conditional logic, \n offers more flexibility and control.
+
 # Exercise 2:
+
